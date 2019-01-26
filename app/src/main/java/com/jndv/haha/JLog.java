@@ -7,5 +7,6 @@ public class JLog {
 
     public static void test() {
         Log.e(TAG, "test: ");
+        Log.e(TAG, "test: ");
     }
 }
